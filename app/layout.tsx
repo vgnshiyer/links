@@ -26,7 +26,7 @@ before:absolute before:inset-0 before:animate-typewriter
 text-white
 before:bg-dark
 after:absolute after:inset-0 after:w-[0.125em] after:animate-caret
-after:bg-white">Navigate my digital world.</p>
+after:bg-white">Navigate through my digital world.</p>
     </header>
   );
 
