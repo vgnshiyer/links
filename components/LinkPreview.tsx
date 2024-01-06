@@ -26,12 +26,13 @@ const LinkPreview = (props: LinkData) => {
 
   const Icon = icons[props.icon];
   return (
-    <div className="w-80 rounded-lg shadow-md p-5 text-xl font-bold text-light hover:text-contrast-dark border-2 bg-semi-dark  border-tertiary-dark hover:border-white flex justify-center items-center hover:shadow-inner">
+    <Link href={props.url}>
+      <div className="w-80 rounded-lg shadow-md p-5 text-xl font-bold text-light hover:text-contrast-dark border-2 bg-semi-dark  border-tertiary-dark hover:border-white flex justify-center items-center hover:shadow-inner">
         <Icon className="mr-2"/>
-        <Link href={props.url}>
+        
           {props.title}
-        </Link>
-    </div>
+      </div>
+    </Link>
   )
 }
 
