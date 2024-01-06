@@ -32,7 +32,7 @@ after:bg-white">Navigate my digital world.</p>
 
   return (
     <html lang="en" className="h-full font-poppins bg-dark">
-      <link rel="icon" href="images/favicon.ico" />
+      <link rel='icon' href='favicon.ico' />
       <body className="mt-6 md:mt-12 lg:mt-24 mb-12">
         <div className="flex flex-col items-center justify-center mx-auto max-w-9/10 md:max-w-3/4 lg:max-w-2/3">
           {header}
