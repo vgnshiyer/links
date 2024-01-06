@@ -1,0 +1,28 @@
+links:
+  - title: Personal Blog
+    url: https://vgnshiyer.dev
+    icon: FaBlog
+
+  - title: GitHub
+    url: https://www.github.com/vgnshiyer
+    icon: FaGithub
+
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/vgnshiyer
+    icon: FaLinkedin
+
+  - title: Twitter
+    url: https://twitter.com/vgnshiyer
+    icon: FaTwitter
+
+  - title: Email
+    url: mailto:vgnshiyer@asu.edu
+    icon: FaEnvelope
+
+  - title: Resume
+    url: https://docs.google.com/document/d/1kYaPMs2tv1MOhZ_vI_JLHGREZdY516h9/edit?usp=sharing&ouid=103005328084281828804&rtpof=true&sd=true
+    icon: FaFileAlt
+
+  - title: LeetCode
+    url: https://leetcode.com/vgnshiyer
+    icon: FaCode
