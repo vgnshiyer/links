@@ -1,6 +1,6 @@
 import getLinks from '@/helpers/getLinks';
 import LinkPreview from '../components/LinkPreview';
-import { LinkData } from '@/types/linkData';
+import { LinkData } from '@/types/LinkData';
 
 export default function Home() {
 

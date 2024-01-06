@@ -1,4 +1,4 @@
-import { LinkData } from '@/types/linkData';
+import { LinkData } from '@/types/LinkData';
 import fs from 'fs';
 import yaml from 'js-yaml';
 

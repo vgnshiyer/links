@@ -1,4 +1,4 @@
-import { LinkData } from '@/types/linkData'
+import { LinkData } from '@/types/LinkData'
 import Link from 'next/link'
 import React from 'react'
 import { IconType } from 'react-icons'
