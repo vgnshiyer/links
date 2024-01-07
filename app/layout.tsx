@@ -19,7 +19,7 @@ export default function RootLayout({
   const header = (
     <header className="mb-9 flex flex-col items-center justify-center">
       <Link href="/">
-        <span className="text-contrast-light dark:text-contrast-dark text-2xl font-poppins font-bold">vgnshiyer's links.</span>
+        <span className="text-contrast-dark text-2xl font-poppins font-bold">vgnshiyer's links.</span>
       </Link>
       <p className="mt-4 relative max-w-full font-mono
 before:absolute before:inset-0 before:animate-typewriter
