@@ -26,3 +26,11 @@ links:
   - title: LeetCode
     url: https://leetcode.com/vgnshiyer
     icon: FaCode
+
+  - title: RSS Feeds
+    url: https://vgnshiyer.dev/feed.xml
+    icon: FaRss
+
+  - title: PyPI
+    url: https://pypi.org/user/vgnshiyer/
+    icon: FaLink

@@ -9,7 +9,9 @@ import {
   FaTwitter, 
   FaCode, 
   FaEnvelope, 
-  FaFileAlt 
+  FaFileAlt,
+  FaLink,
+  FaRss
 } from 'react-icons/fa'
 
 const LinkPreview = (props: LinkData) => {
@@ -22,6 +24,8 @@ const LinkPreview = (props: LinkData) => {
     FaCode,
     FaFileAlt,
     FaEnvelope,
+    FaLink,
+    FaRss
   };
 
   const Icon = icons[props.icon];
@@ -29,7 +33,6 @@ const LinkPreview = (props: LinkData) => {
     <Link href={props.url}>
       <div className="w-80 rounded-lg shadow-md p-5 text-xl font-bold text-light hover:text-contrast-dark border-2 bg-semi-dark  border-tertiary-dark hover:border-white flex justify-center items-center hover:shadow-inner">
         <Icon className="mr-2"/>
-        
           {props.title}
       </div>
     </Link>
