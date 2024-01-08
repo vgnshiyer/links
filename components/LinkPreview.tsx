@@ -11,7 +11,8 @@ import {
   FaEnvelope, 
   FaFileAlt,
   FaLink,
-  FaRss
+  FaRss,
+  FaCoffee
 } from 'react-icons/fa'
 
 const LinkPreview = (props: LinkData) => {
@@ -25,7 +26,8 @@ const LinkPreview = (props: LinkData) => {
     FaFileAlt,
     FaEnvelope,
     FaLink,
-    FaRss
+    FaRss,
+    FaCoffee
   };
 
   const Icon = icons[props.icon];

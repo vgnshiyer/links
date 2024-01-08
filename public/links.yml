@@ -15,6 +15,10 @@ links:
     url: https://twitter.com/vgnshiyer
     icon: FaTwitter
 
+  - title: Buy Me a Coffee
+    url: https://www.buymeacoffee.com/vgnshiyer
+    icon: FaCoffee
+
   - title: Email
     url: mailto:vgnshiyer@asu.edu
     icon: FaEnvelope
