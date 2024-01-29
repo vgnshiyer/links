@@ -20,7 +20,7 @@ export default function Home() {
         {linkPreviews}
 
       </div>
-      <p className="mt-6 text-tertiary-dark text-lg mb-12">Don't search me on Instagram.</p>
+      <p className="mt-6 text-tertiary-dark text-lg mb-12 selection:text-light">Don't search me on Instagram.</p>
     </>
   )
 }
