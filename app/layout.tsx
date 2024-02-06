@@ -22,11 +22,13 @@ export default function RootLayout({
         <span className="text-contrast-dark text-2xl font-poppins font-bold">vgnshiyer's links.</span>
       </Link>
       <p className="mt-4 relative max-w-full font-mono
-before:absolute before:inset-0 before:animate-typewriter
-text-white
-before:bg-dark
-after:absolute after:inset-0 after:w-[0.125em] after:animate-caret
-after:bg-white">Navigate through my digital world.</p>
+      before:absolute before:inset-0 before:animate-typewriter
+      text-white
+      before:bg-dark
+      after:absolute after:inset-0 after:w-[0.125em] after:animate-caret
+      after:bg-white
+      text-sm md:text-base lg:text-lg
+      ">Navigate through my digital world.</p>
     </header>
   );
 
