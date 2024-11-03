@@ -1,6 +1,6 @@
 links:
   - title: Personal Blog
-    url: https://vgnshiyer.dev
+    url: https://blog.vgnshiyer.dev
     icon: FaBlog
 
   - title: GitHub
@@ -32,7 +32,7 @@ links:
     icon: FaCode
 
   - title: RSS Feeds
-    url: https://vgnshiyer.dev/feed.xml
+    url: https://blog.vgnshiyer.dev/feed.xml
     icon: FaRss
 
   - title: PyPI
